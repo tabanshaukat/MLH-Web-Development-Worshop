@@ -32,5 +32,3 @@ CSS files add styling rules to your content.
 Drag in `assets`, like images or music, to add them to your project
 
 -------------------
-
-\ ゜o゜)ノ
