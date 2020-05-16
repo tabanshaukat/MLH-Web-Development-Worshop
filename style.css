@@ -1,0 +1,51 @@
+body {
+  font-family: "Open Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+
+h1 {
+  color: DodgerBlue;
+}
+
+h2 {
+  color: #142133;
+}
+
+a,
+a:visited {
+  color: DodgerBlue;
+}
+
+img {
+  height: 40vh;
+  width: auto;
+  margin: 3vh 0;
+}
+
+header p {
+  font-family: "Cookie", cursive;
+  font-size: 7vh;
+  color: #142133;
+  margin: 0 auto;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  height: 70vh;
+}
+
+.left,
+.right {
+  width: 46vw;
+}
+
+footer {
+  color: #142133;
+}
+
+.social {
+  display: flex;
+  justify-content: space-between;
+  width: 30vw;
+}
